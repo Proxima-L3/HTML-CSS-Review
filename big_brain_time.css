@@ -1,0 +1,74 @@
+
+body{
+    background-color: black;
+}
+
+h1{
+    color: #4AF626;
+}
+
+h2{
+    color: rgb(151, 8, 8);
+}
+
+h3{
+    color: #4AF626
+}
+
+h4{
+    color: grey;
+}
+
+h5{
+    color: rgb(255, 255, 255)
+}
+
+h6{
+    color: #ffffff;
+}
+
+p{
+    color: #4AF626;
+}
+
+ol{
+    color:rgb(151, 8, 8);
+}
+
+li{
+    color: #4AF626;
+}
+
+table{
+    background-color: #807b7b;
+    color: rgb(128, 128, 128);
+    border-color: rgb(75, 74, 74);
+    border-width: 5px;
+}
+
+thead{
+    color: #4AF626;
+}
+
+td{
+    color:#000000;
+}
+
+label{
+    color: black;
+}
+
+form{
+    background-color: grey;
+    border-width: 10px;
+    border-color: #403e3e;
+    border-style: ridge;
+}
+
+input{
+    background-color: #d8d8d8;
+}
+
+textarea{
+    background-color: #d8d8d8;
+}

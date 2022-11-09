@@ -31,12 +31,23 @@ p{
     color: #4AF626;
 }
 
-ol{
+p + h3{
+    text-decoration: underline solid;
+    text-align: center;
+}
+
+h3 + p{
     color:rgb(151, 8, 8);
 }
 
 li{
     color: #4AF626;
+}
+
+ul li{
+    color: #807b7b;
+    text-decoration:line-through;
+    border-left: 2px solid white;
 }
 
 table{

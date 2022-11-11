@@ -1,0 +1,69 @@
+
+body{
+    background-color: #3e3e3e;
+    font-size: 16px;
+    text-align: center;
+    margin: 5%;
+    border: 30px solid #bfa710;
+    border-top: 0px;
+    padding: 5px;
+}
+
+h1{
+    border: 4px solid #bfa710;
+    margin: 15%;
+    margin-top: 10px;
+}
+
+h2{
+    text-decoration: underline;
+}
+
+.secrets{
+    margin-left: 10%;
+    margin-right: 10%;
+    color: #cd0014;
+    font-size: 1.5em;
+    font-style: italic;
+    font-family: 'rouge script', cursive;
+}
+
+#second_p{
+    font-size: 2em;
+    font-weight: bold;
+}
+
+hr{
+    margin: 15% 5%;
+    border: 1px solid #000000;
+}
+
+#table_heading{
+    font-size: 1.8em;
+}
+
+table{
+    margin: 2%;
+    color: #797979;
+    background-color: #bfa710;
+    border: 10px ridge #bfa710;
+}
+
+th{
+    border-width: 4px;
+    color: #000000;
+    background-color: #091770;
+}
+
+td{
+    background-color: #091770;
+    padding: 4px auto 4px auto;
+}
+
+a:link{
+    color: #797979;
+}
+
+a:visited{
+    color: #701010;
+}

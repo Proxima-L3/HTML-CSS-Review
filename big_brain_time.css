@@ -31,7 +31,7 @@ p{
     color: #4AF626;
 }
 
-p + h3{
+p ~ h3{
     text-decoration: underline solid;
     text-align: center;
 }
@@ -94,9 +94,10 @@ span{
 
 .oh_glob{
     text-align: center;
+    color: #000000;
     background-color: #d8d8d8;
 }
 
 #my_eyes{
-    color: #000000;
+    color: rgb(231, 20, 20);
 }

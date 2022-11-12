@@ -1,14 +1,28 @@
 
 
 (done)
-- 
+- review html
+    - elements (tags, attributes, content)
+    - useful elements/tags (p, a, h1-6, ul, ol, li, em/i, strong/b, table, thead, th, td, img, div, span, br)
+    - forms (label, input types, textarea, select/option, etc)
+- review css
+    - rules (selectors, declarations, properties)
+    - ids and classes
+    - specificity
+- find out how to change tab favicon
 
 
 (WIP)
 - _wip-loc_
-- 
+- review bootstrap
+    - containers
+    - jumbotrons
+    - buttons
+    - background
 
 
 (backlog)
+- make a mini project (maybe a blog)
+    - make sketches of site/mini project in notebook
+    - make wire frames or mockups with figma
 - 
-

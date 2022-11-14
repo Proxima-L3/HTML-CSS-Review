@@ -10,15 +10,26 @@
     - ids and classes
     - specificity
 - find out how to change tab favicon
-
-
-(WIP)
-- _wip-loc_
 - review bootstrap
     - containers
     - jumbotrons
     - buttons
     - background
+- change color of bootstrap classes manually with a css file
+
+
+(WIP)
+- _wip-loc_
+- learn how to do all of the bootstrap review stuff above but with bootstrap 5 (realized udemy course that I am using to review is incredibly outdated. This is good opportunity to practice referencing/learning from documentation only what I need instead of watching videos and reading articles "cover to cover")
+    - containers
+    - jumbotrons
+    - buttons
+    - background
+    - forms (group, control, etc)
+    - navbars (with nav, div, a, ul, li elements... or look at documentation.. use w3 schools?..)
+    - collapse/hamburger icon
+    - connecting jquery cdn (to make bootstrap classes interactive)
+    - review grid system (row classes, screen size and col number modifier classes, break points, etc)
 
 
 (backlog)

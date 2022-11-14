@@ -8,5 +8,19 @@ Repo for reviewing basics of web development.
 
 <h2>Goals/Purpose:</h2>
 
-- This repo has no particular goals for now other than to review the basics of html, css, 
-and bootstrap. Repo may be repurposed later if a particular project idea comes to mind.
+- This repo didn't have any main goals in particular, other than to review the basics of html, css, 
+and bootstrap. However, the videos I was using to review bootstrap, I realized were extremely outdated. 
+I decided this would be a good opportunity to practice referencing/learning from documentation only 
+what I need instead of the very common learning method of watching videos and reading articles "cover 
+to cover" before actually making anything.
+...other reasons for this repo:
+- Practice and get used to making and connecting local repo to a github repo as soon as I start a project.
+- Actually make commits, pushes, and pulls throughout project instead of making a single commit that 
+holds the entire project after it's already done.
+- Use the popular and highly beloved VSCode program for the first time (Used PyCharm, atom, brackets, 
+sublime, and jupyter notebooks before.
+
+
+<h3>Note:</h3>
+
+- Bootstrap was reviewed/relearned via a mini-project in another repo (Undecided-Bootstrap-Review-Project for now).

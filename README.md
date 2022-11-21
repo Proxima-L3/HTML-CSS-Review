@@ -24,4 +24,4 @@ sublime, and jupyter notebooks before.
 
 <h3>Note:</h3>
 
-- Bootstrap was reviewed/relearned via a mini-project in another repo (Undecided-Bootstrap-Review-Project for now).
+- Bootstrap was reviewed/relearned via a mini-project in another repo (Generic-Overzealous-Startup-Project).

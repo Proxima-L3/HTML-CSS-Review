@@ -18,8 +18,8 @@ to cover" before actually making anything.
 - Practice and get used to making and connecting local repo to a github repo as soon as I start a project.
 - Actually make commits, pushes, and pulls throughout project instead of making a single commit that 
 holds the entire project after it's already done.
-- Use the popular and highly beloved VSCode editor for the first time (have ussed PyCharm, atom, brackets, 
-sublime, and jupyter notebooks before.
+- Use the popular and highly beloved VSCode IDE for the first time (have used PyCharm, Atom, Brackets, 
+Sublime, and Jupyter Notebooks before.
 
 
 <h3>Note:</h3>
